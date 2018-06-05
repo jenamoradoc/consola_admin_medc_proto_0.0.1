@@ -11,6 +11,9 @@ import java.util.Scanner;
  */
 public class Consola_Admin_Proto1 {
 
+    /**
+     * @param args the command line arguments
+     */
     public static void main(String[] args) {
         
         //crear un objeto Scanner
